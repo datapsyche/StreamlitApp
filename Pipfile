@@ -9,6 +9,7 @@ verify_ssl = true
 streamlit = "*"
 pandas = "*"
 textblob = "*"
+sklearn = "*"
 
 [requires]
 python_version = "3.8"
